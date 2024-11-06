@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(lightpink,rgb(165, 123, 182),rgb(109, 174, 228));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 55px;
+}
+h2{
+    font-size: 36px;
+}
